@@ -1,4 +1,4 @@
-# my_first_app
+# flutter-users-list
 
 A new Flutter application.
 
